@@ -1,0 +1,12 @@
+﻿@model ArticleDto
+<div class="void-200"></div>
+<div class="section">
+    <div class="container">
+        <div class="section-title opacity-white-text">@Model.Category.Name</div>
+        <h2 class="space-top">@Model.Title</h2>
+        <div class="blog-hero-image"><img src="~/Uploads/@Model.Image.FileName" alt="@Model.Image.FileName" /></div>
+        <div class="rich-text rich-text-wrap">
+            @Html.Raw(Model.Content)
+        </div>
+    </div>
+</div>

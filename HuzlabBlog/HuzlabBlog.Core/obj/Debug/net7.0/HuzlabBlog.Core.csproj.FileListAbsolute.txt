@@ -1,0 +1,14 @@
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Core\bin\Debug\net7.0\HuzlabBlog.Core.deps.json
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Core\bin\Debug\net7.0\HuzlabBlog.Core.runtimeconfig.json
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Core\bin\Debug\net7.0\HuzlabBlog.Core.dll
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Core\bin\Debug\net7.0\HuzlabBlog.Core.pdb
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Core\obj\Debug\net7.0\HuzlabBlog.Core.csproj.AssemblyReference.cache
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Core\obj\Debug\net7.0\HuzlabBlog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Core\obj\Debug\net7.0\HuzlabBlog.Core.AssemblyInfoInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Core\obj\Debug\net7.0\HuzlabBlog.Core.AssemblyInfo.cs
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Core\obj\Debug\net7.0\HuzlabBlog.Core.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Core\obj\Debug\net7.0\HuzlabBlog.Core.dll
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Core\obj\Debug\net7.0\refint\HuzlabBlog.Core.dll
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Core\obj\Debug\net7.0\HuzlabBlog.Core.pdb
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Core\obj\Debug\net7.0\HuzlabBlog.Core.genruntimeconfig.cache
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Core\obj\Debug\net7.0\ref\HuzlabBlog.Core.dll

@@ -1,0 +1,17 @@
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Entities\bin\Debug\net7.0\HuzlabBlog.Entities.deps.json
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Entities\bin\Debug\net7.0\HuzlabBlog.Entities.runtimeconfig.json
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Entities\bin\Debug\net7.0\HuzlabBlog.Entities.dll
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Entities\bin\Debug\net7.0\HuzlabBlog.Entities.pdb
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Entities\bin\Debug\net7.0\HuzlabBlog.Core.dll
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Entities\bin\Debug\net7.0\HuzlabBlog.Core.pdb
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Entities\obj\Debug\net7.0\HuzlabBlog.Entities.csproj.AssemblyReference.cache
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Entities\obj\Debug\net7.0\HuzlabBlog.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Entities\obj\Debug\net7.0\HuzlabBlog.Entities.AssemblyInfoInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Entities\obj\Debug\net7.0\HuzlabBlog.Entities.AssemblyInfo.cs
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Entities\obj\Debug\net7.0\HuzlabBlog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Entities\obj\Debug\net7.0\HuzlabBlog.Entities.csproj.CopyComplete
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Entities\obj\Debug\net7.0\HuzlabBlog.Entities.dll
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Entities\obj\Debug\net7.0\refint\HuzlabBlog.Entities.dll
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Entities\obj\Debug\net7.0\HuzlabBlog.Entities.pdb
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Entities\obj\Debug\net7.0\HuzlabBlog.Entities.genruntimeconfig.cache
+C:\Users\berka\OneDrive\Masaüstü\projects\HuzlabBlog\HuzlabBlog.Entities\obj\Debug\net7.0\ref\HuzlabBlog.Entities.dll

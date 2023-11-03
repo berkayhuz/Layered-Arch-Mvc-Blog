@@ -1,0 +1,54 @@
+﻿@model ArticleListDto
+<div class="void"></div>
+<div class="section">
+    <div class="container">
+        <h2 style="text-align:center">Search</h2>
+        <div class="space-top-medium w-dyn-list">
+            <div role="list" class="projects-grid w-dyn-items">
+                @foreach (var item in Model.Articles)
+                {
+                    <div role="listitem" class="w-dyn-item">
+                        <a href="/projects/greenish"
+                           class="project-wrap w-inline-block">
+                            <div class="news-image-wrap">
+                                <img src="~/Uploads/@item.Image.FileName"
+                                     loading="lazy" sizes="100vw"
+                                     class="news-image" />
+                            </div>
+                            <div class="space-top-small">
+                                <h5>@item.Title</h5>
+                                <div class="category-card">
+                                    <div class="opacity-white-text">
+                                        @item.Category.Name
+                                    </div>
+                                    <div class="separator"></div>
+                                    <div class="opacity-white-text">
+                                        @item.User.FirstName @item.User.LastName
+                                    </div>
+                                    <div class="separator"></div>
+                                    <div class="opacity-white-text">
+                                        @item.CreatedDate.ToString("dd/MM/yyyy")
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                }
+            </div>
+        </div>
+        <div class="pagination">
+            @if (Model.ShowPrevious)
+            {
+                <a asp-route-pageSize="@Model.PageSize" asp-route-currentPage="@(Model.CurrentPage - 1)"><ion-icon name="chevron-back-outline"></ion-icon></a>
+            }
+            @for (int i = 1; i < Model.TotalPages; i++)
+            {
+                <a asp-route-currentPage="@i" asp-route-pageSize="@Model.PageSize">@i</a>
+            }
+            @if (Model.ShowNext)
+            {
+                <a asp-route-pageSize="@Model.PageSize" asp-route-currentPage="@(Model.CurrentPage + 1)"><ion-icon name="chevron-forward-outline"></ion-icon></a>
+            }
+        </div>
+    </div>
+</div>

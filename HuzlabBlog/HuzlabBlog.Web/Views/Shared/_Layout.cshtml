@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - HuzlabBlog.Web</title>
+    <link rel="stylesheet" href="~/assets/css/style.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="section header-section">
+        <header class="header">
+            <div class="header-item">
+                <a asp-controller="Home" asp-action="Index"><h1 class="brand">Huzlab</h1></a>
+            </div>
+            <div class="header-item"></div>
+
+            <form id="search_form" asp-controller="Home" asp-action="Search" method="GET" class="header-item">
+                <label>
+                    <input autocomplete="on" name="keyword" type="search">
+                    <button type="submit"><ion-icon name="search-outline"></ion-icon></button>
+                </label>
+            </form>
+        </header>
+    </div>
+    @RenderBody()
+    <div class="section">
+        <div class="container w-container">
+            <div class="center-content">
+                <h2 class="footer-heading">
+                    Huzlab 
+                </h2>
+                <div class="three-column-grid limit-large space-top-medium">
+                    <div class="flex-horizontal">
+                        <img src="~/Uploads/icon1.png"
+                             loading="lazy" width="32" />
+                        <div class="large-text">Lorem ipsum</div>
+                    </div>
+                    <div class="flex-horizontal">
+                        <img src="~/Uploads/icon2.png"
+                             loading="lazy" width="32" />
+                        <div class="large-text">Lorem ipsum</div>
+                    </div>
+                    <div class="flex-horizontal">
+                        <img src="~/Uploads/icon3.png"
+                             loading="lazy" width="32" />
+                        <div class="large-text">Lorem ipsum</div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <div class="footer-bottom-content mobile-center">
+                </div>
+                <div class="footer-bottom-content mobile-center">
+                    <a asp-controller="Home" asp-action="Index" class="footer-link">Ana Sayfa</a>
+                </div>
+                <div class="small-footer-content"></div>
+            </div>
+        </div>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
